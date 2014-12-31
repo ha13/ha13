@@ -1,0 +1,17 @@
+<h1><%= t '.all_users' %></h1>
+<div class="table-responsive">
+  <table class="table">
+    <tr>
+      <th><%= t :name, scope:[:activerecord,:models,:attributes,:user]%></th>
+      <th><%= t :email, scope:[:activerecord,:models,:attributes,:user]%></th>
+    </tr>
+     <% @users.each do |user|%>
+    <tr>
+      <td> <%= link_to(user.name, user_path(user)) %> </td>
+      <td>  <%= user.email %> </td>
+    </tr>
+    <% end %>
+  </table>
+  <%= will_paginate%>
+</div>
+

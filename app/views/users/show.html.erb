@@ -1,0 +1,15 @@
+<h1><%= t :detail_user%></h1>
+<div class="row">
+  <div class="col-md-3 col-md-offset-3">
+    <strong><%= t :name, scope:[:activerecord,:models,:attributes,:user] %></strong>
+    <p><%= link_to @user.name, edit_user_path(@user) %></p>
+  </div>
+  <div class="col-md-3">
+    <strong><%= t :email, scope:[:activerecord,:models,:attributes,:user] %></strong>
+    <p><%= @user.email %></p>
+  </div>
+  <div class="col-md-3">
+    <strong><%= t :admin, scope:[:activerecord,:models,:attributes,:user] %></strong>
+    <p> <%= @user.admin%></p>
+  </div>
+</div>

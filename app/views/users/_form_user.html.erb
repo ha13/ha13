@@ -1,0 +1,26 @@
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+  <%= form_for @user, remote: true do |f|%>
+    <%= render "shared/error_messages"%>
+    <div class="form-group">
+      <%= f.label :name, (t :name, scope:[:activerecord,:models,:attributes,:user]) %>
+      <%= f.text_field :name, class: "form-control"%>
+    </div>
+    <div class="form-group">
+      <%= f.label :email, (t :email, scope:[:activerecord,:models,:attributes,:user]) %>
+      <%= f.text_field :email, class: "form-control"%>
+    </div>
+    <div class="form-group">
+      <%= f.label :password, (t :password, scope:[:activerecord,:models,:attributes,:user]) %>
+      <%= f.password_field :password, class: "form-control"%>
+    </div>
+    <div class="form-group">
+      <%= f.label :password_confirmation, (t :password_confirmation, scope:[:activerecord,:models,:attributes,:user])%>
+      <%= f.password_field :password_confirmation, class: "form-control"%>
+    </div>
+    <div class="form-group">
+      <%= f.submit (t :create_user), class: "btn btn-primary"%>
+    </div>
+  <% end %>
+  </div>
+</div>
