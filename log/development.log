@@ -34736,3 +34736,605 @@ ActionView::Template::Error (couldn't find file 'jquery.validate'
   [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:04.463031' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:04.463084') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
   [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:09.466065' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:09.466113') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
   [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:14.469087' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:14.469136') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.3ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:19.472189' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:19.472240') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:24.475764' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:24.475845') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:29.478931' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:29.478993') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:34.481970' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:34.482024') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:39.483863' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:39.483916') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:44.486969' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:44.487025') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:49.490197' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:49.490258') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:54.493332' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:54.493387') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:29:59.496384' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:29:59.496441') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:04.499460' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:04.499512') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:09.502603' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:09.502658') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:14.505606' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:14.505662') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:19.508713' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:19.508766') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:24.511762' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:24.511837') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:29.514837' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:29.514888') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:34.517860' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:34.517918') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:39.520978' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:39.521034') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:44.524207' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:44.524262') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:49.527232' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:49.527288') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:54.530433' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:54.530490') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:30:59.533450' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:30:59.533503') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:04.536612' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:04.536675') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:09.539670' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:09.539726') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:14.542798' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:14.542855') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:19.545959' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:19.546012') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:24.549056' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:24.549107') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:29.552283' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:29.552342') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:34.555297' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:34.555352') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:39.558409' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:39.558464') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:44.561581' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:44.561636') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:49.564676' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:49.564732') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.5ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:54.567902' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:54.567972') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:31:59.572320' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:31:59.572375') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:04.575324' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:04.575378') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:09.578340' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:09.578391') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:14.581474' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:14.581529') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:19.584727' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:19.584779') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:24.587691' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:24.587749') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:29.590824' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:29.590876') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (9.3ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:34.593864' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:34.593932') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (2.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:39.605385' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:39.605439') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:44.608864' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:44.608917') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:49.610995' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:49.611051') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:54.614045' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:54.614106') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:32:59.617254' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:32:59.617313') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:04.620308' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:04.620366') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:09.623334' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:09.623391') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:14.626370' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:14.626429') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:19.629437' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:19.629493') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:24.632519' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:24.632574') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:29.635503' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:29.635563') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:34.638496' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:34.638550') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:39.641585' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:39.641640') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:44.644719' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:44.644770') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:49.647695' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:49.647758') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:54.650796' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:54.650861') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:33:59.653918' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:33:59.653980') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:04.657137' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:04.657187') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:09.660152' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:09.660202') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:14.663226' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:14.663278') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:19.666272' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:19.666334') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:24.669489' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:24.669532') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:29.671785' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:29.671847') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:34.673976' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:34.674045') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:39.677240' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:39.677291') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:44.679357' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:44.679414') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:49.682429' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:49.682492') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:54.684670' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:54.684723') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:34:59.687671' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:34:59.687721') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.7ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:04.690762' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:04.690836') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:09.694733' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:09.694785') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:14.697785' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:14.697833') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:35:17 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (15.8ms)
+  Rendered users/new.html.erb within layouts/application (29.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (0.8ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1[0m
+  Rendered layouts/_header.html.erb (9.8ms)
+Completed 500 Internal Server Error in 450ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+     9:             <b class="caret"></b>
+    10:           </a>
+    11:           <ul class="dropdown-menu">
+    12:             <li> <%= link_to (t :profile), user_path(current_user) %></li>
+    13:             <li> <%= link_to (t :settings), current_user %></li>
+    14:           </ul>
+    15:           <li class="divider">
+  app/views/layouts/_header.html.erb:12:in `_app_views_layouts__header_html_erb__804491452_77247100'
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__269761180__616207858'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (19.8ms)
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:19.700739' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:19.700788') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:24.703762' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:24.703812') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:29.706807' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:29.706856') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:34.709784' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:34.709835') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:39.712744' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:39.712793') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:44.715744' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:44.715793') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:49.718722' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:49.718771') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:54.721800' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:54.721864') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:35:59.725015' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:35:59.725067') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:04.728089' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:04.728139') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:09.731145' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:09.731196') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:14.734129' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:14.734181') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:19.737274' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:19.737323') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:24.740299' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:24.740349') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:29.743427' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:29.743488') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:34.745311' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:34.745359') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:39.748361' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:39.748412') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:44.751404' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:44.751456') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:49.754480' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:49.754562') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:54.757646' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:54.757696') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:36:59.760700' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:36:59.760754') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:04.763784' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:04.763846') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:09.766906' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:09.766961') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.3ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:14.770117' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:14.770211') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.3ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:19.773546' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:19.773608') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:24.776888' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:24.776940') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:29.779993' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:29.780047') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.3ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:34.783124' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:34.783201') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:39.786540' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:39.786606') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:44.789660' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:44.789716') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:49.792767' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:49.792829') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:54.795780' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:54.795843') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:37:59.798846' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:37:59.798896') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:04.801841' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:04.801893') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:38:07 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (14.5ms)
+  Rendered users/new.html.erb within layouts/application (20.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (0.5ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1
+  Rendered layouts/_header.html.erb (7.8ms)
+Completed 500 Internal Server Error in 399ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+     9:             <b class="caret"></b>
+    10:           </a>
+    11:           <ul class="dropdown-menu">
+    12:             <li> <%= link_to (t :profile), user_path(current_user) %></li>
+    13:             <li> <%= link_to (t :settings), current_user %></li>
+    14:           </ul>
+    15:           <li class="divider">
+  app/views/layouts/_header.html.erb:12:in `_app_views_layouts__header_html_erb__804491452_77247100'
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__269761180__616207858'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (16.4ms)
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:09.804914' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:09.804966') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:14.808016' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:14.808067') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:19.811018' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:19.811071') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:24.814049' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:24.814103') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:29.817098' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:29.817149') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:34.820210' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:34.820263') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:39.823239' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:39.823287') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:44.826339' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:44.826399') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:49.829410' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:49.829468') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:54.832481' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:54.832531') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:38:59.835422' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:38:59.835474') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:04.838376' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:04.838430') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:09.841322' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:09.841371') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:14.844286' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:14.844337') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:19.847140' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:19.847190') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:24.850087' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:24.850139') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:29.853015' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:29.853064') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:34.855926' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:34.855978') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:39.858846' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:39.858897') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:44.861789' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:44.861840') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:49.865118' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:49.865168') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:54.868145' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:54.868199') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:39:59.871312' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:39:59.871364') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:04.874353' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:04.874416') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.6ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:09.877340' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:09.877413') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:14.880893' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:14.880944') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:19.883785' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:19.883867') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:40:21 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (17.4ms)
+  Rendered users/new.html.erb within layouts/application (28.5ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (0.7ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1[0m
+  Rendered layouts/_header.html.erb (13.6ms)
+Completed 500 Internal Server Error in 395ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+    10:           </a>
+    11:           <ul class="dropdown-menu">
+    12:             <li> <%= link_to (t :profile), "" %></li>
+    13:             <li> <%= link_to (t :settings), current_user %></li>
+    14:           </ul>
+    15:           <li class="divider">
+    16:             <li>
+  app/views/layouts/_header.html.erb:13:in `_app_views_layouts__header_html_erb__804491452_99328650'
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__269761180__616207858'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (16.5ms)
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:24.886753' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:24.886805') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:29.889738' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:29.889790') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:34.892752' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:34.892807') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:39.895836' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:39.895888') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.8ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:44.898724' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:44.898779') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:40:45 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (14.5ms)
+  Rendered users/new.html.erb within layouts/application (27.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (1.1ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1
+  Rendered layouts/_header.html.erb (5.9ms)
+  Rendered layouts/_footer.html.erb (3.9ms)
+Completed 200 OK in 395ms (Views: 392.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/article.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:45 +0700
+
+
+Started GET "/assets/comment.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/article.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/comment.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-12-31 17:40:46 +0700
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:49.901145' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:49.901197') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:54.904231' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:54.904293') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:40:59.907230' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:40:59.907282') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:04.910237' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:04.910301') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:09.913238' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:09.913287') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:14.916249' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:14.916300') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:19.919170' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:19.919220') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:24.922282' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:24.922334') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:29.925243' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:29.925308') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:41:33 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (15.5ms)
+  Rendered users/new.html.erb within layouts/application (21.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (1.1ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1[0m
+  Rendered layouts/_header.html.erb (28.1ms)
+Completed 500 Internal Server Error in 383ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+     9:             <b class="caret"></b>
+    10:           </a>
+    11:           <ul class="dropdown-menu">
+    12:             <li> <%= link_to t(:profile), user_path(current_user) %></li>
+    13:             <li> <%= link_to t(:settings), current_user %></li>
+    14:           </ul>
+    15:           <li class="divider">
+  app/views/layouts/_header.html.erb:12:in `_app_views_layouts__header_html_erb__804491452_92359730'
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__269761180__616207858'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (17.2ms)
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:34.928204' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:34.928264') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:39.931146' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:39.931194') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:44.934072' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:44.934136') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:49.937311' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:49.937362') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:54.940248' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:54.940301') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:41:59.943153' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:41:59.943209') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:04.946200' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:04.946250') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:09.949122' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:09.949175') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:42:12 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (7.3ms)
+  Rendered users/new.html.erb within layouts/application (12.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (0.5ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1
+  Rendered layouts/_header.html.erb (10.5ms)
+Completed 500 Internal Server Error in 418ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+    10:           </a>
+    11:           <ul class="dropdown-menu">
+    12:             <% p current_user %>
+    13:             <li> <%= link_to t(:profile), user_path(current_user) %></li>
+    14:             <li> <%= link_to t(:settings), current_user %></li>
+    15:           </ul>
+    16:           <li class="divider">
+  app/views/layouts/_header.html.erb:13:in `_app_views_layouts__header_html_erb__804491452_96263640'
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__269761180__616207858'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (23.1ms)
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:14.952069' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:14.952120') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.4ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:19.955004' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:19.955061') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:24.958436' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:24.958505') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:29.961659' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:29.961709') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:34.964650' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:34.964691') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:39.966562' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:39.966629') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:44.969758' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:44.969825') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:49.971658' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:49.971713') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:54.973691' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:54.973751') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:42:59.976733' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:42:59.976784') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.3ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:04.979740' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:04.979801') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:09.982965' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:09.983018') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:14.985018' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:14.985068') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:43:19 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (18.0ms)
+  Rendered users/new.html.erb within layouts/application (25.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (1.8ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1[0m
+  Rendered layouts/_header.html.erb (22.4ms)
+Completed 500 Internal Server Error in 436ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+    11:           <ul class="dropdown-menu">
+    12:             <% p current_user %>
+    13:             <li> <%= link_to t(:profile), user_path(current_user, locale: 'en') %></li>
+    14:             <li> <%= link_to t(:settings), current_user %></li>
+    15:           </ul>
+    16:           <li class="divider">
+    17:             <li>
+  app/views/layouts/_header.html.erb:14:in `_app_views_layouts__header_html_erb__804491452_74654460'
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__269761180__616207858'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (18.1ms)
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:19.988000' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:19.988064') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:24.990941' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:24.990991') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.2ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:29.993955' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:29.994007') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:34.997072' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:34.997125') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:43:38 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (14.1ms)
+  Rendered users/new.html.erb within layouts/application (25.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (3.6ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1
+  Rendered layouts/_header.html.erb (8.8ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 413ms (Views: 408.8ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/assets/article.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:38 +0700
+
+
+Started GET "/assets/comment.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/article.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/comment.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-12-31 17:43:39 +0700
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:39.998955' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:39.999021') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:45.002141' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:45.002207') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.7ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:50.003964' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:50.004012') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.9ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:43:55.006007' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:43:55.006053') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:00.008689' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:00.008754') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:05.011674' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:05.011725') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:10.014638' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:10.014694') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:15.017565' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:15.017624') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:20.020524' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:20.020583') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:25.023566' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:25.023616') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:30.026560' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:30.026608') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:35.029432' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:35.029483') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:40.032352' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:40.032420') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:45.034205' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:45.034271') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:50.037215' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:50.037268') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:44:55.040134' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:44:55.040192') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.7ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:00.043036' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:00.043128') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:05.047458' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:05.047509') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:10.050418' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:10.050471') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:15.052857' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:15.052911') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:20.055800' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:20.055865') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-12-31 17:45:20 +0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.1ms)
+  Rendered users/_form_user.html.erb (14.1ms)
+  Rendered users/new.html.erb within layouts/application (24.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (1.1ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 210 LIMIT 1[0m
+  Rendered layouts/_header.html.erb (7.0ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 529ms (Views: 526.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/article.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:20 +0700
+
+
+Started GET "/assets/comment.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/article.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/comment.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-12-31 17:45:21 +0700
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:25.058743' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:25.058800') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.3ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:30.061719' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:30.061786') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:35.065000' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:35.065052') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:40.067983' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:40.068034') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+
+
+Started GET "/users/210" for 127.0.0.1 at 2014-12-31 17:45:44 +0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"210"}
+  [1m[35mUser Load (1.3ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."slug" = '210'  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36mUser Load (1.6ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = ? LIMIT 1[0m  [["id", 210]]
+  Rendered users/show.html.erb within layouts/application (9.7ms)
+Completed 500 Internal Server Error in 34ms
+
+ActionView::Template::Error (No route matches {:action=>"edit", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+    2: <div class="row">
+    3:   <div class="col-md-3 col-md-offset-3">
+    4:     <strong><%= t :name, scope:[:activerecord,:models,:attributes,:user] %></strong>
+    5:     <p><%= link_to @user.name, edit_user_path(@user) %></p>
+    6:   </div>
+    7:   <div class="col-md-3">
+    8:     <strong><%= t :email, scope:[:activerecord,:models,:attributes,:user] %></strong>
+  app/views/users/show.html.erb:5:in `_app_views_users_show_html_erb___953158901_93535820'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (18.8ms)
+
+
+Started GET "/users/210" for 127.0.0.1 at 2014-12-31 17:45:44 +0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"210"}
+  [1m[35mUser Load (2.3ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."slug" = '210'  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = ? LIMIT 1[0m  [["id", 210]]
+  Rendered users/show.html.erb within layouts/application (11.1ms)
+Completed 500 Internal Server Error in 48ms
+
+ActionView::Template::Error (No route matches {:action=>"edit", :controller=>"users", :format=>nil, :id=>nil, :locale=>#<User id: 210, name: "lp8", email: "lp8@lp.lp", created_at: "2014-12-31 07:28:42", updated_at: "2014-12-31 09:04:37", password_digest: "$2a$10$SGvQihdhHsDJmlwlrz5.yeUQk4U4JO.phVGK0DMpRm6...", remember_digest: nil, admin: false, slug: "lp8">} missing required keys: [:id]):
+    2: <div class="row">
+    3:   <div class="col-md-3 col-md-offset-3">
+    4:     <strong><%= t :name, scope:[:activerecord,:models,:attributes,:user] %></strong>
+    5:     <p><%= link_to @user.name, edit_user_path(@user) %></p>
+    6:   </div>
+    7:   <div class="col-md-3">
+    8:     <strong><%= t :email, scope:[:activerecord,:models,:attributes,:user] %></strong>
+  app/views/users/show.html.erb:5:in `_app_views_users_show_html_erb___953158901_92508190'
+
+
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/case004/.rvm/gems/ruby-2.1.1/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (23.7ms)
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (0.8ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:45.070937' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:45.070993') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (0.6ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:50.073156' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:50.073207') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (4.6ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:45:55.074999' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:45:55.075064') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.1ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:46:00.081206' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:46:00.081255') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
+  [1m[35mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  SELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:46:05.084232' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:46:05.084284') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5
+  [1m[36mDelayed::Backend::ActiveRecord::Job Load (1.0ms)[0m  [1mSELECT  "delayed_jobs".* FROM "delayed_jobs"  WHERE ((run_at <= '2014-12-31 10:46:10.087076' AND (locked_at IS NULL OR locked_at < '2014-12-31 06:46:10.087126') OR locked_by = 'host:case004 pid:28036') AND failed_at IS NULL)  ORDER BY priority ASC, run_at ASC LIMIT 5[0m
